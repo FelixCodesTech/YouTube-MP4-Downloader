@@ -7,3 +7,5 @@ This app will automatically download any YouTube Video you want to some director
 
 ###### What's actually going on under the hood...
 <img width="819" alt="jgf" src="https://user-images.githubusercontent.com/66774630/219850918-4ddaf3f4-ac08-4c0e-89cd-9f905a928dc3.png">
+
+#### I also made this into an app, but can't upload it here to Github. If you're interested, this is a useful tutorial <br> → http://www.marinamele.com/from-a-python-script-to-a-portable-mac-application-with-py2app
